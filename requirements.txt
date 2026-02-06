@@ -1,0 +1,5 @@
+flask
+customtkinter
+bcrypt
+gunicorn
+psycopg2-binary
